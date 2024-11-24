@@ -5,6 +5,7 @@ This plugin works by creating a session named `_popup_{session_name}`, it change
 
 ## Default Keybindings
 `prefix M-a`: open the popup window
+
 `M-a` (when in the popup): close the popup window
 
 ## Customization Options
